@@ -18,6 +18,6 @@ step:
       配置Stettings Vue.js
 
       运行npm run serve(notic 3.0 以下 is npm run dev)
-
+I will upload some files future;
 I love you three thousand times
     
