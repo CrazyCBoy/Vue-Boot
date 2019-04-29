@@ -1,6 +1,8 @@
 "# Vue-Boot" 
 "# Vue-SpringBoot" 
-This is one 前后端 整合的项目,include /boot/vue/mybatis/mysql ,use idea
+This is one 前后端 整合的项目,Sure,this is simple suite,you can add some module or files.....
+include /boot/vue/mybatis/mysql ,use idea
+
 First ,you need install node.js 
 step:
 
