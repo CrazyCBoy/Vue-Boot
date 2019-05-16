@@ -1,10 +1,7 @@
 "# Vue-Boot" 
 "# Vue-SpringBoot" 
-This is one 前后端 整合的项目,Sure,this is simple suite,you can add some module or files.....
-include /boot/vue/mybatis/mysql ,use idea
 
-First ,you need install node.js 
-step:
+
 
       Node配置
       https://www.cnblogs.com/zhouyu2017/p/6485265.html
@@ -17,7 +14,6 @@ step:
       配置Idea run下面的  Npm 一个serve 一个build
       配置Stettings Vue.js
 
-      运行npm run serve(notic 3.0 以下 is npm run dev)
-I will upload some files future;
-I love you three thousand times
+      运行npm run serve(3.0 以下 is npm run dev)
+
     
