@@ -3,7 +3,13 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
+import echarts from 'echarts'
+Vue.prototype.echarts = echarts;
 
+
+import VCharts from 'v-charts'
+import $ from 'jquery'
+Vue.use(VCharts)
 Vue.config.productionTip = false
 
 /* eslint-disable no-new */
