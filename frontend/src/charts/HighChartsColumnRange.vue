@@ -11,8 +11,6 @@
     },
 
     data () {
-
-
       return {
         sty: {
 
@@ -49,13 +47,11 @@
           },
 
           plotOptions: {
-
             columnrange: {
               groupPadding :0.5,
-
               dataLabels: {
-                enabled: true,
-                format: '{y}'
+                enabled: false,//是否显示数据
+                format: '{y}'//显示哪个轴的数据
               }
             }
           },
@@ -87,8 +83,8 @@
             color: 'rgba(255, 255, 255, 0)',
             pointWidth:40,
             data: [
-              [-9.9, 10.3],
-              [-8.6, 8.5],
+              jStat.tci( 1, 0.05, 1,5),
+              jStat.tci( 1, 0.05, -8.6,8.5),
               [-10.2, 11.8],
               [-1.7, 12.2],
               [-0.6, 23.1],
